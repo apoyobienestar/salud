@@ -1,3 +1,0 @@
-(function(){var loadHandler=window['sl_{B747EC25-D654-41F8-9E62-AE19D8491A51}'];loadHandler&&loadHandler(0, '<div id="spr0_1884fbc6"><div id="spr1_1884fbc6" class="kern slide"><img id="img1_1884fbc6" src="data/img1.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1884fbc6" class="kern slide"><div id="spr3_1884fbc6" style="left:0.374px;"><img id="img0_1884fbc6" src="data/img0.png" width="2235.75" height="720.75" alt="Casa en medio de campo\
-\
-Descripción generada automáticamente con confianza media" style="left:0.429px;top:-0.281px;"/></div></div></div>', '{"s":[]}');})();
